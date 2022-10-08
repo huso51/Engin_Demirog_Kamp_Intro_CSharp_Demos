@@ -1,0 +1,14 @@
+C:\Users\husey\Desktop\Eğitim\KampIntro-master\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.exe
+C:\Users\husey\Desktop\Eğitim\KampIntro-master\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.deps.json
+C:\Users\husey\Desktop\Eğitim\KampIntro-master\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.runtimeconfig.json
+C:\Users\husey\Desktop\Eğitim\KampIntro-master\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.runtimeconfig.dev.json
+C:\Users\husey\Desktop\Eğitim\KampIntro-master\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.dll
+C:\Users\husey\Desktop\Eğitim\KampIntro-master\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.pdb
+C:\Users\husey\Desktop\Eğitim\KampIntro-master\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.csproj.AssemblyReference.cache
+C:\Users\husey\Desktop\Eğitim\KampIntro-master\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\Desktop\Eğitim\KampIntro-master\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.AssemblyInfoInputs.cache
+C:\Users\husey\Desktop\Eğitim\KampIntro-master\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.AssemblyInfo.cs
+C:\Users\husey\Desktop\Eğitim\KampIntro-master\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.csproj.CoreCompileInputs.cache
+C:\Users\husey\Desktop\Eğitim\KampIntro-master\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.dll
+C:\Users\husey\Desktop\Eğitim\KampIntro-master\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.pdb
+C:\Users\husey\Desktop\Eğitim\KampIntro-master\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.genruntimeconfig.cache
